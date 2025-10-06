@@ -277,6 +277,13 @@
     font-weight: 500;
     animation: showText 0.5s 1s linear forwards;
     opacity: 0;
+  }
+  .technical-bars .bar .progress-line{
+    position: relative;
+    border-radius: 10px;
+    width: 100%;
+    height: 5px;
+    background-color: #000000;
     
   }
 
